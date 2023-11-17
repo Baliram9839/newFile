@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-size: cover;
+    margin-left:700px;
+    margin-top: 150px;
+}
+.register{
+    background-color: rgba(188, 31, 31, 0.5);
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 15px rgba(0,0,0, 0.5);
+    
+}
+h2{
+    text-align: center;
+}
+#name{
+    padding: 7px;
+    border-radius: 5px;
+    width: 200px;
+
+}
+#register{
+    margin-left:70px;
+    margin-top: 20px;
+}
